@@ -4,6 +4,9 @@ Analyseur PowerShell des vecteurs d'élévation de privilèges sous Windows.
 
 PrivEscHunter collecte des informations locales, recherche des configurations potentiellement dangereuses et affiche un rapport de sécurité directement dans la console. Chaque résultat est classé par niveau de sévérité et, lorsque cela est pertinent, associé à une technique MITRE ATT&CK, des éléments de preuve et une recommandation de remédiation.
 
+
+![Capture d’écran](image.png)
+
 ## Fonctionnalités
 
 - Informations sur le système, la version de Windows, les correctifs et le mode de langage PowerShell
