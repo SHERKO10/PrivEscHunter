@@ -7,6 +7,8 @@ PrivEscHunter collecte des informations locales, recherche des configurations po
 
 ![Capture d’écran](image.png)
 
+![Capture d’écran](image2.png)
+
 ## Fonctionnalités
 
 - Informations sur le système, la version de Windows, les correctifs et le mode de langage PowerShell
